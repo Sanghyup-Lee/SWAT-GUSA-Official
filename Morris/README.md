@@ -11,7 +11,17 @@ Morris method application in our main SWAT-GUSA project.
 
 ## Step of Morris application in SWAT-GUSA
 
-### Phase 1: 
+### Phase 1: Model setting
+- Baseline model set to run the morris
 
-### Phase 2: 
+### Phase 2: Factor file generation
+- All parameters listup influence to streamflow related with landcover and canopy cover change based on SWAT manual (Arnold et al., 2012)
 
+### Phase 3: Sample file generation
+- Use simlab to generate sample file for Morris method
+
+### Phase 4: Build parallel system to modify model factors based on sample
+- Use SWATswapper to change values of model
+
+### Phase 5: Run model
+- Run SWAT parallel by using batch file.
