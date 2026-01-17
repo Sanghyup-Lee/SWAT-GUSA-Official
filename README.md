@@ -1,2 +1,2 @@
 # SWAT-GUSA-Official
-Official global uncertainty and sensitivity analysis for SWAT model "paper title".
+Official implementation of the research project. Currently under working.
