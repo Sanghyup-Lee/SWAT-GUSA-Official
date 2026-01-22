@@ -1,0 +1,11 @@
+Gumbel Extreme Value Analysis (Observed)
+====================================
+Input file: Z:\WERL\Team\shlee\Sobol\8_analysis_results\Observations\02_Annual_Stats_WaterYear.csv
+AMS column: annual_max_cms
+Number of years: 37
+Return periods: 2, 5, 10, 25, 50, 100
+Bootstrap samples: 5000
+Confidence level: 0.95
+Fitting method: Method of Moments
+Random seed: 42
+mu = 383.7045, beta = 206.7439
