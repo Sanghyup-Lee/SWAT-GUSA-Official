@@ -1,0 +1,3 @@
+[submodule "SWAT-CCLC"]
+	path = SWAT-CCLC
+	url = https://github.com/Sanghyup-Lee/SWAT-CCLC.git
