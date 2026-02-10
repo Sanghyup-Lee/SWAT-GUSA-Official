@@ -1,0 +1,20 @@
+ParName,High importance & High interaction,High importance & Low interaction,Low importance & High interaction,Low importance & Low interaction
+ALPHA_BF,0,0,0,90
+CHD,0,0,0,0
+CHW2,0,0,0,0
+CH_L2,0,0,0,0
+CN2,65,2,20,43
+EPCO,0,4,0,126
+ESCO,44,54,0,32
+GWQMN,31,0,20,59
+GW_DELAY,22,5,5,78
+GW_REVAP,26,0,26,47
+LAT_SED,0,0,0,0
+OV_N,0,0,0,0
+RCHRG_DP,62,7,1,40
+REVAPMN,0,0,0,16
+SLSOIL,0,0,0,130
+SPCON,0,0,0,0
+SPEXP,0,0,0,0
+SURLAG,0,0,0,0
+USLE_P,0,0,0,10
